@@ -6,8 +6,8 @@ users who signed up for an account in January 2014. The data was pulled on July
 1, 2014; we consider a user retained if they were “active” (i.e. took a trip)
 in the preceding 30 days (from the day the data was pulled). In other words, a
 user is "active" if they have taken a trip since June 1, 2014.  The data are 
-split into train andtest sets.  You are encouraged to tune and estimate your 
-model's performance onthe train set, then see how it does on the unseen data in 
+split into train and test sets.  You are encouraged to tune and estimate your 
+model's performance on the train set, then see how it does on the unseen data in 
 the test set at the end.
 
 We would like you to use this data set to help understand **what factors are
